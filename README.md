@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>  <img  src="https://github.com/Gdudek-git/CryptocurrencyExchange/blob/master/src/main/gif/CryptocurrencyExchange.gif" width="300" height="300"/></td>
-    <td> <img src="https://github.com/Gdudek-git/multithreading-example/blob/master/src/main/video/MultithreadingExample%20.gif?raw=true" width="300" height="300"/></td>
+    <td> <img src="https://github.com/Gdudek-git/multithreading-example/blob/master/src/main/video/MultithreadingExample%20.gif" width="300" height="300"/></td>
   </tr>
  </table>
 
