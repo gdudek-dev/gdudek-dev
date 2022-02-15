@@ -31,7 +31,8 @@
 
   
 
-
+<h3>Project created with friends:</h3>
+<p>https://github.com/PaszekDev/mizu</p>
 
 <h3>Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdudek-dev&show_icons=true&locale=en&layout=compact" alt="gdudek-dev" /></p>
