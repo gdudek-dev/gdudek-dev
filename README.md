@@ -31,7 +31,8 @@
 
   
 
-<h3>Project created with friends:</h3>
+<h3>Projects created with friends:</h3>
+<p>https://gitlab.com/tasty-food/tasty-admin</p>
 <p>https://github.com/PaszekDev/mizu</p>
 
 <h3>Stats:</h3>
