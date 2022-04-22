@@ -29,11 +29,12 @@
  </table>
 
 
-  
+<h3>My first project (not-finished) written in Spring framework</h3>
+<p>https://github.com/gdudek-dev/movie-rental</p>
 
 <h3>Projects created with friends:</h3>
-<p>https://gitlab.com/tasty-food/tasty-admin</p>
-<p>https://github.com/PaszekDev/mizu</p>
+<p>https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)</p>
+<p>https://github.com/PaszekDev/mizu (Spring + Angular)</p>
 
 <h3>Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdudek-dev&show_icons=true&locale=en&layout=compact" alt="gdudek-dev" /></p>
