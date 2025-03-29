@@ -2,8 +2,6 @@
 <h3 align="center">A passionate programmer from Poland</h3>
 <hr>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **grzegorzdudekdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
